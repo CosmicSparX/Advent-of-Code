@@ -21,6 +21,4 @@ for line in inp:
     print("current_max: ", current_max)
     result += current_max["red"] * current_max["green"] * current_max["blue"]
 
-    
-
 print("\n\nRESULT =", result)

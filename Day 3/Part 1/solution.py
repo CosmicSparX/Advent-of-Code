@@ -48,4 +48,4 @@ result = 0
 for key, val in nums.items():
     result += verify(key, val)
 
-print(result)
+print("\nResult = ", result)

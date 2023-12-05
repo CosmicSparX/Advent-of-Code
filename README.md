@@ -16,7 +16,7 @@ This repository contains my solutions to the Advent of Code challenges.
   - `README.md`: Explanation of the problem and approach. (I'll add these later on)
   - `solution.py` and `solution.go`: Code solutions in Python and Go.
   - Any additional resources or input files required for the solution. 📁
-- The file scripts.ps1 has the powershell scripts that I am using for this project you can change them to their bash equivalent if you want.
+- The file `scripts.ps1` has the powershell scripts that I am using for this project you can change them to their bash equivalent if you want.
 
 ## Usage
 
